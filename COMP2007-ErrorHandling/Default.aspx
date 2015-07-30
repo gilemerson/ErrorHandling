@@ -5,7 +5,8 @@
     <div class="container">
     <div class="jumbotron text-center">
         <h1>Welcome Home</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <p>Welcome to our COMP2007 Error Handling Class. Here we will discuss Error Handling</p>
     </div> 
   </div>
+
 </asp:Content>
