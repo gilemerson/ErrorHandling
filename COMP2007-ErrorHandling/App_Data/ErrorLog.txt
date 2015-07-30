@@ -48,3 +48,8 @@ Exception Type: System.Web.HttpException
 Exception: An HTTP error occurred. Page Not found. Please try again.
 Source: customErrors section - Web.config
 Stack Trace: 
+********** 7/30/2015 12:13:10 PM **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
